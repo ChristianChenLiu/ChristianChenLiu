@@ -7,7 +7,11 @@ Hello world, my name is Christian Chen Liu 😀!
 
   * ⚙️ Practice makes perfect, and insight increases efficiency
 
-> The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
+
+
+My favourite quote:
+
+  > The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
 
 ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianChenLiu)
 
