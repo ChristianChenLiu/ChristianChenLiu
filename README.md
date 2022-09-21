@@ -2,7 +2,7 @@
 - 👀 I’m interested in Videogames and learning new stuff!
 - 🌱 I’m currently learning Javascript, French and app development
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianChenLiu)](https://github.com/ChristianChenLiu/github-readme-stats)
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianChenLiu)
 
 <!---
 ChristianChenLiu/ChristianChenLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
