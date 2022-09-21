@@ -3,7 +3,7 @@ Hello world, my name is Christian Chen Liu 😀!
 
   * 🎓 Enrolled at the University of Toronto, Computer Science
 
-  * 📖 Learning Javascript, French, and mobile app development
+  * 📖 Learning Javascript, NodeJS, and React
 
   * ⚙️ Practice makes perfect, and insight increases efficiency
 
