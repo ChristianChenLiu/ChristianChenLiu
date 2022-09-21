@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @ChristianChenLiu
-- 👀 I’m interested in Videogames and learning new stuff!
-- 🌱 I’m currently learning Javascript, French and app development
+Hello world, my name is Christian Chen Liu 😀!
+
+🎓 Enrolled at the University of Toronto, Computer Science
+📖 Learning Javascript, French, and mobile app development
+⚙️ Practice makes perfect, and insight increases efficiency
 
 ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianChenLiu)
 
