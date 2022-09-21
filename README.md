@@ -13,9 +13,12 @@ My favourite quote:
 
   > The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianChenLiu&theme=dracula&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianChenLiu&layout=compact)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ChristianChenLiu&show_icons=true&theme=dracula&count_private=true" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianChenLiu&theme=dracula&langs_count=8&layout=compact" /></div>
+</div>
 
 <!---
 ChristianChenLiu/ChristianChenLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
