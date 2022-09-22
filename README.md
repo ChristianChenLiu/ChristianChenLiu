@@ -25,4 +25,4 @@ ChristianChenLiu/ChristianChenLiu is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=ChristianChenLiu&color=lightgrey)
