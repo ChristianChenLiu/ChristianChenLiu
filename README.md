@@ -4,7 +4,7 @@
 </div>   
 
 
-<h1 align="center"> Hello world! My name is Christian Chen Liu </h1>
+<h1 align="center"> Hello world! My name is Christian Chen Liu 👋!</h1>
 <h3 align="center">🎓 Enrolled at the University of Toronto</h3>
 <h3 align="center">📖 Learning Javascript, NodeJS, and React</h3>
 <h3 align="center">⚙️ Good practice makes perfect, and insight increases efficiency</h3>
@@ -19,6 +19,8 @@
     
 </div>
 
+<br>
+
 <div align="center">
-    <img style="height: auto; width: 15%;" src="https://komarev.com/ghpvc/?username=ChristianChenLiu&color=lightgrey" />
+    <img style="height: auto; width: 20%;" src="https://komarev.com/ghpvc/?username=ChristianChenLiu&color=lightgrey" />
 </div>
