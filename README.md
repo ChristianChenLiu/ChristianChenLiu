@@ -14,7 +14,6 @@
 <div style="display:flex;">
     <img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=ChristianChenLiu&show_icons=true&theme=dracula&count_private=true" />
     &nbsp;
-    &nbsp;
     <img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianChenLiu&theme=dracula&langs_count=8&layout=compact" />
     
 </div>
