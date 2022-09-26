@@ -5,7 +5,7 @@ Hello world, my name is Christian Chen Liu 😀!
 
   * 📖 Learning Javascript, NodeJS, and React
 
-  * ⚙️ Practice makes perfect, and insight increases efficiency
+  * ⚙️ GOOD practice makes perfect, and insight increases efficiency
 
 
 
