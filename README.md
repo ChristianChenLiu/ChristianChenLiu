@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ChristianChenLiu/ReadmeAssets/blob/main/capoo-bug-cat-smashkeyboard.gif" width="250" heigh="250" title="smashing-keyboard">
+</p>
+
 Hello world, my name is Christian Chen Liu 👋!
 
 
