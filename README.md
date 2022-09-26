@@ -1,4 +1,4 @@
-Hello world, my name is Christian Chen Liu 😀!
+Hello world, my name is Christian Chen Liu 👋!
 
 
   * 🎓 Enrolled at the University of Toronto, Computer Science
