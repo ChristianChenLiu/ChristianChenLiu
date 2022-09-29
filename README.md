@@ -4,7 +4,7 @@
 </div>   
 
 
-<h1 align="center"> Hello world! My name is Christian Chen Liu 👋!</h1>
+<h1 align="center"> Hello World! My name is Christian Chen Liu 👋!</h1>
 <h3 align="center">🎓 Enrolled at the University of Toronto</h3>
 <h3 align="center">📖 Learning Javascript, NodeJS, and React</h3>
 <h3 align="center">⚙️ Good practice makes perfect, and insight increases efficiency</h3>
